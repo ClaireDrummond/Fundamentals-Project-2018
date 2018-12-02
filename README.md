@@ -9,3 +9,6 @@ https://github.com/ClaireDrummond/GMITProject2018
 https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html?highlight=boxplot
 https://matplotlib.org/gallery/recipes/create_subplots.html
 https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51
+https://citoolkit.com/articles/histograms-and-boxplots/
+https://mste.illinois.edu/courses/ci330ms/youtsey/scatterinfo.html
+http://vita.had.co.nz/papers/boxplots.pdf
