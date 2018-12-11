@@ -3,7 +3,7 @@ An Investigation into Box Plots
 
 This repository contains, primarily, a jupyter notebook with an investigation into Box PLots
 
-The purpose of this Jupyter Notebook is to investigate and explain box plots and their uses. To help explain box plots, I will be using theboxplot function from the Python package matplotlib.pyplot. I will undertake this task by:
+The purpose of this Jupyter Notebook is to investigate and explain box plots and their uses. To help explain box plots, I will be using the boxplot function from the Python package matplotlib.pyplot. I will undertake this task by:
 
 Summarising the history of the box plot and situations in which it used.
 Demonstrating the use of the box plot using data
